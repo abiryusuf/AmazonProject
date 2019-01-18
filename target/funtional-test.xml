@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="AmazonTestSuite">
+
+    <listeners>
+        <listener class-name="com.qa.amazon.framework.reporting.ExtantTestNGITestListener"/>
+
+    </listeners>
+
+
+    <test name="functional-test">
+        <classes>
+            <class name="com.testNG.LoginTest"/>
+        </classes>
+    </test>
+</suite>

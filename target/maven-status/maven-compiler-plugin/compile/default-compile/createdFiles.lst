@@ -1,0 +1,5 @@
+com\qa\amazon\framework\pages\AmazonHomePage.class
+com\qa\amazon\framework\pages\AmazonLoginPage.class
+com\qa\amazon\framework\utlis\ApplicationBase.class
+com\qa\amazon\framework\utlis\CrossBrowserScript.class
+com\qa\amazon\framework\utlis\TestNGScript.class
